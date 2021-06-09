@@ -1,5 +1,6 @@
-## dev-terminology
+# dev-terminology
 The ever-growing list of terminology that programmers use. (Using Ctrl/Cmd-F is recommended.)
+
 
 ### AOT (adv.)
 Ahead of time; specifically, usually refers to programs that are compiled to machine-code before they are run, as opposed to JIT programs which are compiled as they are run.
