@@ -5,14 +5,6 @@ The ever-growing list of terminology that programmers use. (Using Ctrl/Cmd-F is 
 ### AOT (adv.)
 Ahead of time; specifically, usually refers to programs that are compiled to machine-code before they are run, as opposed to JIT programs which are compiled as they are run.
 
-### Binary
-The expression of values in 1s and 0s (on and off, also known as 1-bit).
-
-Commonly confused with machine code; binary is simply a method e
-
-### Bit
-A binary value, typically 1 or 0, but may also be true or false (also known as a boolean).
-
 ### Boolean
 A value that may either be true or false.
 
